@@ -1,0 +1,9 @@
+{
+  "client_id": "https://ayasin-tech.github.io/Atlas/oauth/zawaya-friday-client.json",
+  "client_name": "Zawaya Friday Workbench",
+  "redirect_uris": ["zawaya-friday://oauth/callback"],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "flows image_video_generation"
+}
